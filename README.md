@@ -5,6 +5,6 @@ car textures
 https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio
 
 Presentation 
-https://www.youtube.com/watch?v=g7FtPPAl0mE&t=210s
+https://www.youtube.com/watch?v=g7FtPPAl0mE
 
 Documents regarding the design and meetings inside ./Documents/
