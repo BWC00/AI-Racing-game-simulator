@@ -1,10 +1,10 @@
 # MB-TO-Project
-Racing game simulator met een neuraal netwerk
+AI controlled 2D racing game simulator written in C++ using reinforcement learning
 
 car textures
 https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio
 
 Presentation 
-https://drive.google.com/file/d/1OMN3VPEfQj9jOtyow8r5CCY6SRh7THtZ/view?usp=sharing
+https://www.youtube.com/watch?v=g7FtPPAl0mE&t=210s
 
 Documents regarding the design and meetings inside ./Documents/
